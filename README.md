@@ -3,6 +3,8 @@ PyAlgoTrade
 从2015 07 31开始尝试学习使用git。
 一点点读懂这个程序。
 
+2015年7月31日 粗粗看一下廖雪峰的git教程，对git有一些了解了http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137586810169600f39e17409a4358b1ac0d3621356287000
+
 [![version status](https://pypip.in/v/pyalgotrade/badge.png)](https://pypi.python.org/pypi/pyalgotrade)
 [![downloads](https://pypip.in/d/pyalgotrade/badge.png)](https://pypi.python.org/pypi/pyalgotrade)
 [![build status](https://travis-ci.org/gbeced/pyalgotrade.png?branch=master)](https://travis-ci.org/gbeced/pyalgotrade)
