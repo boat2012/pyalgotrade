@@ -1,5 +1,7 @@
 PyAlgoTrade
 ===========
+从2015 07 31开始尝试学习使用git。
+一点点读懂这个程序。
 
 [![version status](https://pypip.in/v/pyalgotrade/badge.png)](https://pypi.python.org/pypi/pyalgotrade)
 [![downloads](https://pypip.in/d/pyalgotrade/badge.png)](https://pypi.python.org/pypi/pyalgotrade)
